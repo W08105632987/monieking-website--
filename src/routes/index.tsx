@@ -329,7 +329,7 @@ function Hero() {
               </a>
             </div>
             <div className="mt-5">
-              <WhatsAppPill label="Join 5,000+ contributors on WhatsApp" />
+              <WhatsAppPill label="Join the MonieKing community" />
             </div>
             {/* compact metric chips — side by side even on the smallest phones */}
             <div className="mt-8 grid grid-cols-3 gap-2 sm:max-w-md sm:gap-3">
@@ -896,7 +896,7 @@ function Contact() {
               </a>
             </div>
             <div className="mt-6">
-              <WhatsAppPill label="Join the WhatsApp group" />
+              <WhatsAppPill label="Join the MonieKing community" />
             </div>
           </motion.div>
 
