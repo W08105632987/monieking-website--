@@ -54,7 +54,7 @@ export const Route = createFileRoute("/")({
 
 const APP_URL = "https://monieking.webodemos.com/";
 const WHATSAPP = "2348038995252";
-const WA_GROUP = "https://chat.whatsapp.com/BftyT6DRCahLq8XDIlGvfY?s=cl&p=a&mlu=4&ilr=4";
+const WA_GROUP = "https://chat.whatsapp.com/IuMEDUG0Pe41HTwgNznKYM?s=sw&p=a&mlu=4&ilr=4";
 
 function WhatsAppPill({ className = "", label = "Join 5,000+ contributors on WhatsApp" }) {
   return (
