@@ -56,7 +56,7 @@ const APP_URL = "https://monieking.webodemos.com/";
 const WHATSAPP = "2348038995252";
 const WA_GROUP = "https://chat.whatsapp.com/IuMEDUG0Pe41HTwgNznKYM?s=sw&p=a&mlu=4&ilr=4";
 
-function WhatsAppPill({ className = "", label = "Join 5,000+ contributors on WhatsApp" }) {
+function WhatsAppPill({ className = "", label = "Join the MonieKing community" }) {
   return (
     <a href={WA_GROUP} target="_blank" rel="noreferrer" className={`wa-pill ${className}`}>
       <MessageCircle className="size-4 shrink-0" />
@@ -1063,6 +1063,9 @@ function Footer() {
               </a>
             </div>
           </div>
+        </div>
+        <div className="mt-8 text-[10px] leading-5 text-app-mint/40">
+          MonieKing is a product/service operated by MonieKing Solution Nig. Ltd. (RC 7196881), Nigeria.
         </div>
         <div className="mt-12 flex flex-col gap-3 border-t border-white/8 pt-6 text-[10px] text-app-mint/40 sm:flex-row sm:justify-between">
           <span>© {new Date().getFullYear()} MonieKing. All rights reserved.</span>
