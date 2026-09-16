@@ -37,13 +37,13 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Save with transparent contribution cards, a trusted Zone Officer, NIMC and BVN services, airtime, data and bill payments in one wallet.",
+          "MonieKing brings Esusu, Ajo and Adashi savings into one digital experience. Save with contribution cards, track every payment, and access wallet, NIN, BVN and bill payment services.",
       },
       { property: "og:title", content: "MonieKing | The Adashi you know, now digital" },
       {
         property: "og:description",
         content:
-          "Transparent contribution records, wallet services, identity services, bills, and community support.",
+          "Digital contribution savings, wallet services, identity services and everyday payments in one place.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

@@ -339,10 +339,10 @@ function ServicesScreen() {
       group: "Identity services",
       Icon: IdCard,
       items: [
-        ["NIN slip reprint", "₦1,500"],
-        ["NIN modification", "₦3,500"],
-        ["BVN validation", "₦1,000"],
-        ["BVN retrieval", "₦1,000"],
+        ["NIN slip reprint"],
+        ["NIN modification"],
+        ["BVN validation"],
+        ["BVN retrieval"],
       ],
     },
     {
